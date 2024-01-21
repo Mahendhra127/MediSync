@@ -1,0 +1,167 @@
+
+.flex-container{
+    display: flex;
+}
+.MEDISYNC-HEADING{
+    padding-right: 1100px;
+    padding-left: 15px;
+}
+
+.image-passphoto{
+    height:75px;
+    padding: 15px;
+}
+.card{
+    background-color:rgb(139, 216, 241);
+    height: 60px;
+    color: black;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+}
+.container-1{
+    background-color: aliceblue;
+    margin: 1px;
+    border-radius: 50px;
+    height: 80vh;
+}
+
+.image-hospital{
+    height: 45px;
+    padding: 5px;
+    padding-left: 30px;
+    border-radius: 20px;
+    padding-right: 100px;
+}
+a{
+    padding-right: 200px;
+    padding-bottom:5px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.image{
+    height: 200px;
+    width:400px;
+    margin: 30px;
+    margin-right: 170px;
+    margin-left: 130px;
+}
+.small{
+    background-color: grey;
+    height: fit-content;
+    width: 40vw;
+    float: right;
+    margin-top: 18px; 
+    padding: 15px;
+    border-radius: 20px;
+    margin-right: 140px;
+    margin-left: 15px;
+}
+.button{
+    background-color: rgb(23, 25, 29);
+    color: white;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.next-page{
+    background-image: url("Mask\ group.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center
+}
+.heading{
+    font-family: ;
+}
+.formpage{
+    height:50vh;
+}
+.form-heading{
+    color: black;
+    text-align: center;
+}
+
+
+
+.3rd-page { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    font-family: sans-serif; 
+    line-height: 1.5; 
+    min-height: 100vh; 
+    background: #f3f3f3; 
+    flex-direction: column; 
+    margin: 0; 
+} 
+  
+.main { 
+    background-color: #fff; 
+    border-radius: 15px; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
+    padding: 10px 20px; 
+    transition: transform 0.2s; 
+    width: 500px; 
+    text-align: center; 
+} 
+  
+h1 { 
+    color: #0e210e; 
+} 
+  
+label { 
+    display: block; 
+    width: 100%; 
+    margin-top: 10px; 
+    margin-bottom: 5px; 
+    text-align: left; 
+    color: #555; 
+    font-weight: bold; 
+} 
+  
+  
+input { 
+    display: block; 
+    width: 100%; 
+    margin-bottom: 15px; 
+    padding: 10px; 
+    box-sizing: border-box; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+} 
+  
+button { 
+    padding: 15px; 
+    border-radius: 10px; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+    border: none; 
+    color: white; 
+    cursor: pointer; 
+    background-color: #4CAF50; 
+    width: 100%; 
+    font-size: 16px; 
+} 
+  
+.wrap { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
